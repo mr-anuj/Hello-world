@@ -1,17 +1,14 @@
 
 # Hello World
-
-> This is Hello World Microverse Project
-
+![screenshot](Screenshot.png)
+> This my first Project in the Microverse curriculum
 
 ## Built With
-
-- Html Css
-
-
+- Html
+- CSS
+- GITHub
 
 ## Getting Started
-
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
